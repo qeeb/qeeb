@@ -16,4 +16,5 @@
 
 rootProject.name = 'qeeb'
 include '2pc'
+include 'core'
 
